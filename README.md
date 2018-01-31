@@ -23,29 +23,28 @@ Lowering the barrier to entry democratizes open source development, and helps yo
 ## Questions
 
 1. What 3 features make Github so powerful?
-> Answer here
+> In the article, they talk specifically about fork, pull request, and merge.
 
 2. How is Github like a resume?
-> Answer here
+> Essentially, when you send a pull request to a file owner, that person is able to see your username and profile on Github, which has the history of all the contributions you've made to various repositories on Github.  This way, they can take a look at all the various work you have done, and it serves as essentially a 'resume' of all your coding and programming work.
 
 3. Slack your lead instructor the answer to this question: How does Github help young projects grow?
-> Slack Instructor
+> I slacked Kyle Coberly.
 
 4. Log into your Github Account, in the 'Overview' tab - update your three pinned repositories (pick any three)
-> Answer here
+> Done.  I pinned and updated Galvanize, Git-Drill-1, and Git-Drill-2
 
 5. Check your Github contribution map, how many contributions do you have this year?
-> Answer here
+> I have 19 contributions, which is pretty amazing considering I didn't even know this thing existed until yesterday.
 
 6. Made a new repo, clone it to your local computer and add a README
-> Answer here
+> Done!
 
 7. In the readme, add your name, birthday, and a list of all your favorite things including book, movie, band/music, food and past-time
-> Answer here
+> Done!
 
 8. On Github, find 3 repositories you're interested in and 'star' them
-> Answer here
+> Done!
 
 9. This Github article is interesting, but you don't need to read it for this drill. Just do number 4 and move on to the next drill
-> Answer here
-# Reading-Comprehension-Drill-B
+> Well now you tell me...
